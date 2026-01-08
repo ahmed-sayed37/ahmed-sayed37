@@ -11,7 +11,7 @@ LLM Training & Evaluation • Prompt Engineering • Multimodal QA • Code Eval
 </p>
 
 <p align="center">
-📍 Cairo, Egypt • 🌍 Arabic (Native) • English (Fluent)
+📍 Cairo, Egypt • 🌍 Arabic (Native) • English (conversational)
 </p>
 
 ---
