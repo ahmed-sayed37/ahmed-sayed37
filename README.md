@@ -21,10 +21,10 @@ LLM Training & Evaluation • Prompt Engineering • Multimodal QA • Code Eval
   <a href="mailto:ahmedarbey37@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmad-sayed-248872245">
+  <a href="https://www.linkedin.com/in/ahmed-sayed-349872246">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ahmed-sayed">
+  <a href="https://github.com/ahmed-sayed37">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -99,7 +99,7 @@ LLM Training & Evaluation • Prompt Engineering • Multimodal QA • Code Eval
 - 🔖 **Bookmarker:** save/manage links locally (Bootstrap/JS)  
 - 🎨 **Daniels:** responsive landing/portfolio page (Bootstrap + light JS interactions)
 
-> 🔎 Explore more in my repositories: https://github.com/ahmed-sayed
+> 🔎 Explore more in my repositories: https://github.com/ahmed-sayed37
 
 ---
 
