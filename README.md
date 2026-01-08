@@ -52,4 +52,63 @@ LLM Training & Evaluation • Prompt Engineering • Multimodal QA • Code Eval
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal_QA-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code_Review_&_Testing-111111?style=for-the-badge" />
+</p>
+
+---
+
+### 💼 Experience (Highlights)
+
+**Aligneer — QC Data Annotator (Multimodal QA, Language QA, Code Evaluation)**  
+*05/2022 – Present*  
+- QA for Arabic & English AI outputs (accuracy, clarity, safety, guideline compliance)
+- Wrote/refined prompts to get higher-quality answers and evaluated outputs across difficulty levels
+- Compared & rated **two model responses** using rubrics (helpfulness, correctness, tone, completeness)
+- Multimodal QA: verified **captions/tags/transcripts** + consistency between inputs/outputs
+- Contributed to a **JavaScript/TypeScript project** on Claude models: prompt writing, evaluating 2 responses, and improving/refactoring code
+
+**Outlier — AI Code Evaluator & Prompt Specialist**  
+*09/2024 – Present*  
+- Evaluated AI-generated code (HTML/CSS/JS) for correctness, functionality, and instruction-following
+- Executed/tested code, then improved clarity, accuracy, and maintainability
+
+**Data Annotation — Advanced AI Data Trainer**  
+*01/2023 – Present*  
+- Designed complex prompts (Arabic + sometimes English) for LLM training
+- Evaluated/refined responses to improve accuracy and contextual relevance (incl. technical queries)
+
+**LingoTrive — Voice AI Trainer**  
+*06/2025 – Present*  
+- High-quality voice recordings with clear articulation and consistent delivery for model training
+
+---
+
+### 🚀 Projects
+- 🛒 **E-commerce (React SPA):** product listing/details, search/filter, cart with local persistence, responsive UI  
+- 🍽️ **Yummy:** meals app using public API (HTML/CSS/Bootstrap/JS), responsive navigation  
+- 🌦️ **Weather:** current conditions + 3-day forecast via external API (HTML/CSS/Bootstrap/JS)  
+- 🔖 **Bookmarker:** save/manage links locally (Bootstrap/JS)  
+- 🎨 **Daniels:** responsive landing/portfolio page (Bootstrap + light JS interactions)
+
+> 🔎 Explore more in my repositories: https://github.com/ahmed-sayed
+
+---
+
+### 📜 Certifications
+- Frontend Developer (React.js)  
+- Computer Essentials
+
+---
+
+<p align="center">
+✨ Built with passion • Trained with precision • Shipped with confidence ✨
+</p>
