@@ -86,7 +86,7 @@ LLM Training & Evaluation • Prompt Engineering • Multimodal QA • Code Eval
 - Designed complex prompts (Arabic + sometimes English) for LLM training
 - Evaluated/refined responses to improve accuracy and contextual relevance (incl. technical queries)
 
-**LingoTrive — Voice AI Trainer**  
+**LingoTribe — Voice AI Trainer**  
 *06/2025 – Present*  
 - High-quality voice recordings with clear articulation and consistent delivery for model training
 
